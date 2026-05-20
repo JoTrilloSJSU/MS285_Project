@@ -20,6 +20,6 @@ Fat depositsare depleted by movement and increased by fish consumption.
 * Base code is based on code found here: https://github.com/Gruikjr/webol
 * Any additional game mechanics are written by me, and based on a plethora of online resources.
 * All sprites and animations are drawn/ coded by me.
-* Text was written by me, but used generative ai to help with the really tedious task formatting.
+* Text was written by me, but used generative ai to help with the really tedious task of formatting.
 
 
